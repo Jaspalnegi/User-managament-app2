@@ -30,8 +30,10 @@ CSS for styling and responsiveness
 
 JSONPlaceholder API for mock data
 
-Installation Clone the repository: git clone https://github.com/Jaspalnegi/User-Management-App.git Navigate to the project directory: cd user-management-app
+Installation Clone the repository: git clone https://github.com/Jaspalnegi/User-managament-app2.git Navigate to the project directory: cd user-management-app
 
 Install dependencies: npm install
 
 Start the development server: npm start
+
+vercel link: https://user-managament-app2.vercel.app/
